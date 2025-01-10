@@ -5,10 +5,8 @@ Please include in your trusted programs if needed.
 
 ***DOWNLOAD***
 
-First step is to have the app downloaded to your computer, so you can begin installation. To do that, select TotalCare Address Lookup Tool vX.X Setup, by hovering your mouse over it or clicking on the circle that appears to the left of the app's name, then an ellipsis (...) will appear. Click on the ellipsis and a box with a few options will pop-up. Click where it says download to start downloading the application.
-
-This program was written in-house, and it is only available for TotalCare Vendors. Because of that, your computer may say it could pottentilly har your device. You may have to follow a few prompts to make sure that the file is properly downloaded into your computer.
-If you are having issues downloading, please don't hesitate to reach out to us at 407-650-1819.
+This program was written in-house, and it is only available for TotalCare Vendors. Because of that, your computer may say it could pottentilly harm your device. You may have to follow a few prompts to make sure that the file is properly downloaded and installed into your computer.
+If you are having issues downloading, please don't hesitate to reach out to us.
 
 
 ***INSTALLATION***
@@ -25,7 +23,7 @@ If you are having issues installing, please don't hesitate to reach out to us at
 
 You should have your username and password on your email. If for any reason you forgot,
 lost, is having issues logging in or would like to change your password,
-please contact our office at 407-650-1819 or support@totalcareorlando.com.
+please contact our office.
 
 
 ***TUTORIAL***
