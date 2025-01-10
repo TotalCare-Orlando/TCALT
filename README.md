@@ -16,7 +16,7 @@ The setup will also ask if you would like to create a shortcut on your desktop. 
 
 Once the installation is completed, you will be given an option to run the program immediately or to just finish the installation process without opening the program.
 
-If you are having issues installing, please don't hesitate to reach out to us at 407-650-1819.
+If you are having issues installing, please don't hesitate to reach out to us.
 
 
 ***CREDENTIALS***
