@@ -32,6 +32,7 @@ This application will help you lookup names and addresses of TotalCare Members.
 Always make sure to insert as much information on the search bar as possible.
 
 Ex.: Let's lookup the address '123 This Street'.
+
 	If you type '123' and hit enter you might not get an accurate result.
 	Try typing '123 This', for example for a much better accuracy in your search.
 
@@ -39,8 +40,9 @@ You may also search by member name. Keep in mind that only FIVE results will be 
 so if our member has multiple homes, it is advised that you search by address instead.
 
 Ex.: Let's look up the name 'TotalCare Orlando'.
+
 	If you type 'Tota' you may not find the name you were looking for.
-	Try typing 'TotalCare' or search the address for better results.
+	Try typing 'TotalCare', or search the address for better results.
 
 
 YOUR COOPERATION IS APPRECIATED! PLEASE LET US KNOW OF ANY SUGGESTIONS TO IMPROVE THIS APPLICATION!
