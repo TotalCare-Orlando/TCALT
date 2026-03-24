@@ -1,20 +1,26 @@
-Thank you for being a valued TotalCare Vendor!
+Thank you for being a Preferred Vendor!
 
 Some antivirus softwares may block this application from running. This is a false positive warning and will not harm your device.
 Please consult your admin and include in your trusted programs if needed.
 
+
 ***DOWNLOAD***
 
 This program was written in-house, and it is only available for TotalCare Vendors. For this reason, your computer may warn that the app could pottentilly harm your device. You may have to follow a few prompts to make sure that the file is properly downloaded and installed into your computer.
+
 If you are having issues downloading, please don't hesitate to reach out to us.
 
 
 ***INSTALLATION***
 
-Once the file is downloaded, we can now proceed to the installation. Simply open TCALT.XXX.Setup, and follow the prompts. It will ask where do you want the program to be installed. The default folder is recommended, but you may change it to another folder if you prefer.
+Once the file is downloaded, we can now proceed to the installation. Simply open TCALT.XXX.Setup.vX.X.X, and follow the prompts. It will ask where do you want the program to be installed. The default folder is recommended, but you may change it to another folder if you prefer.
 The setup will also ask if you would like to create a shortcut on your desktop. This is recommended to be checked, so you can easily find and run the program from your desktop screen.
 
 Once the installation is completed, you will be given an option to run the program immediately or to just finish the installation process without opening the program.
+
+For distribution, you may use winget to provision the latest stable version of the app by running the following command:
+
+	winget install TotalCareCentralFlorida.TCALT --source winget
 
 If you are having issues installing, please don't hesitate to reach out to us.
 
